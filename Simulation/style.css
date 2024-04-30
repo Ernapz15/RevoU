@@ -1,0 +1,19 @@
+
+h1 {
+  color:rgb(211, 126, 126);
+}
+#name {
+  color: rgb(112, 112, 237);
+  font-size: 20px;
+  font-weight: bold;
+}
+#hobby {
+  color: rgb(153, 200, 242);
+  font-size: 20px;
+  font-weight: bold;
+}
+.school{
+  color: rgb(203, 237, 237);
+  font-size: 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fefae0;
+    padding: 20px;
+    border-radius:10px;
+    box-shadow: 0 px 0 px 10 px;
+}
